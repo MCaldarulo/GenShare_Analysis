@@ -4,7 +4,6 @@ this is text inline readme
 
 sa sa prova prova
 
-Ciao! Mi chiamo Luis!
-
+Ciao!
 
 And here is some more text
